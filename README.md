@@ -10,3 +10,4 @@
 http://www.data.telangana.gov.in/dataset/integrated-household-survey
 
 <a href="https://www.google.co.in/" target="_blank">example</a>
+<a href="https://www.thesitewizard.com/" target="_blank">thesitewizard.com</a>
