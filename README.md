@@ -9,4 +9,4 @@
 ## data source:   
 http://www.data.telangana.gov.in/dataset/integrated-household-survey
 ## Skills & Tools
-1. R Shyni apps
+1. R Shyni
