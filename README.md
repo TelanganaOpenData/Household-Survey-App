@@ -3,9 +3,9 @@
 
 ## Project Info:   
 https://data.world/telangana/interactive-app-for-households
-## Project Slack Channel
+## Project Slack Channel:
 #householdsurveyapp  
 [https://telanganaopendata.slack.com/](https://join.slack.com/t/telanganaopendata/shared_invite/MjMyMjc1MjE3NDEwLTE1MDM4MTIwMzQtNTIxYzNkMjYxZQ) 
-## Data source:   
+## data source:   
 http://www.data.telangana.gov.in/dataset/integrated-household-survey
 
