@@ -8,4 +8,5 @@
 [https://telanganaopendata.slack.com/](https://join.slack.com/t/telanganaopendata/shared_invite/MjMyMjc1MjE3NDEwLTE1MDM4MTIwMzQtNTIxYzNkMjYxZQ) 
 ## data source:   
 http://www.data.telangana.gov.in/dataset/integrated-household-survey
-
+## Skills & Tools
+1. R Shyni apps
