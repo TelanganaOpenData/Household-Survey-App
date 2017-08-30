@@ -1,5 +1,5 @@
 # Household-Survey-App
-> An intensive household survey conducted by the Telangana government in August 2014 to ascertain comprehensive information on citizens
+> Build an interactive app for the household survey dataset which was conducted by the Telangana government in August 2014 to ascertain comprehensive information on citizens
 
 ## Project Info:   
 [https://data.world/telangana/interactive-app-for-households](https://data.world/telangana/interactive-app-for-households)
