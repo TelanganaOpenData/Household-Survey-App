@@ -2,7 +2,8 @@
 > An intensive household survey conducted by the Telangana government in August 2014 to ascertain comprehensive information on citizens
 
 ## Project Info:   
-https://data.world/telangana/interactive-app-for-households
+<a href="https://data.world/telangana/interactive-app-for-households" target="_blank">https://data.world/telangana/interactive-app-for-households</a>
+
 ## Project Slack Channel:
 #householdsurveyapp  
 [https://telanganaopendata.slack.com/](https://join.slack.com/t/telanganaopendata/shared_invite/MjMyMjc1MjE3NDEwLTE1MDM4MTIwMzQtNTIxYzNkMjYxZQ) 
